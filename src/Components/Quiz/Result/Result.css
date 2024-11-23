@@ -1,0 +1,24 @@
+/* button.reset {
+  background-color: #f44336;
+}
+button.reset:hover {
+  background-color: #e53935;
+}
+
+.score {
+  font-size: 1.2em;
+  margin-top: 20px;
+} */
+/* Result.css */
+button.reset {
+  background-color: #f44336;
+}
+
+button.reset:hover {
+  background-color: #e53935;
+}
+
+.score {
+  font-size: 1.2em;
+  margin-top: 20px;
+}
